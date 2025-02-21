@@ -1,7 +1,7 @@
 # Understanding-Bitcoin-s-Scripting-Language
 <p>Số lượng SV thực hiện : 5</p>
 <p>Tên SV: Nguyễn Bửu Thạch</p>
-<p>Công việc: Developer</p>
+<p>Công việc: Coder</p>
 <h3>1. Tạo script P2PKH (task1)</h3>
 <h4>a. Viết hàm tạo tập lệnh P2PKH:</h4>
 <ul>
